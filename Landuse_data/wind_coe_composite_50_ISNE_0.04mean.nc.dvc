@@ -1,0 +1,5 @@
+outs:
+- md5: e0a9495265981463b9f42de99b27fda1
+  size: 176028
+  hash: md5
+  path: wind_coe_composite_50_ISNE_0.04mean.nc
