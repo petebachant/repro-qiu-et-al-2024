@@ -3,3 +3,5 @@ name: repro-qiu-et-al-2024
 git_repo_url: https://github.com/petebachant/repro-qiu-et-al-2024
 references:
   - path: references.bib
+showcase:
+  - text: This is still a work-in-progress. Check back soon for updates!
