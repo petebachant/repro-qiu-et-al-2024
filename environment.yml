@@ -5,3 +5,5 @@ dependencies:
   - numpy
   - pandas
   - xarray
+  - pip:
+      - gurobipy

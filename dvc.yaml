@@ -1,0 +1,9 @@
+stages:
+  min-cost:
+    cmd: >
+      calkit xenv -n main --wdir minCost --
+      python Main_multi.py WR_name if_wake if_landuse Opreswind Opressolar 0
+          maximumratio_of_natural_gas num_yr ensemble_member_id
+    deps:
+      - minCost/Main_multi.py
+      - environment.yml

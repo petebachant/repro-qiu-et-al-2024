@@ -33,4 +33,6 @@ dependencies:
   - tk=8.6.13
   - tzdata=2025a
   - xarray=2025.1.1
+  - pip:
+      - gurobipy==12.0.1
 name: qiu-2024-decarb
