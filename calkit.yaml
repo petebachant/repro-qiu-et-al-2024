@@ -2,6 +2,7 @@ owner: petebachant
 name: repro-qiu-et-al-2024
 git_repo_url: https://github.com/petebachant/repro-qiu-et-al-2024
 dependencies:
+  - conda
   - WTK_API_KEY:
       kind: env-var
       description: >
