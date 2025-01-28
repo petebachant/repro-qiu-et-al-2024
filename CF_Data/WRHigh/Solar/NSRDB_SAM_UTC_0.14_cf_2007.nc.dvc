@@ -1,0 +1,5 @@
+outs:
+- md5: d0b86d71e1cd0abc5b580a773081aadf
+  size: 124560079
+  hash: md5
+  path: NSRDB_SAM_UTC_0.14_cf_2007.nc
