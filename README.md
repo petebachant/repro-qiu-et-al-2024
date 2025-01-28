@@ -1,4 +1,4 @@
-# Reproducing Qui et al. (2024) 'Decarbonized energy system planning with high-resolution...'
+# Reproducing Qiu et al. (2024) 'Decarbonized energy system planning with high-resolution...'
 
 A [Calkit](https://github.com/calkit/calkit)
 project that reproduces the results of:
