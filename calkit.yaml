@@ -1,2 +1,4 @@
 owner: petebachant
 git_repo_url: https://github.com/petebachant/repro-qiu-et-al-2024
+references:
+  - path: references.bib
