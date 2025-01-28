@@ -12,6 +12,6 @@ references:
 showcase:
   - text: This is still a work-in-progress. Check back soon for updates!
 environments:
-  qiu-2024-decarb:
+  main:
     path: environment.yml
     kind: conda
