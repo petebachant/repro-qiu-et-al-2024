@@ -22,7 +22,8 @@ from the Zenodo archive: https://zenodo.org/records/11194453.
 1. Added files to the repo with `calkit add {path} -M`.
    Git/GitHub was automatically selected for small/text files and
    DVC/calkit.io was selected for large/binary files.
-1. Created a Conda environment in which to run the Python scripts.
+1. Created a Conda environment (`calkit new conda-env ...`)
+   in which to run the Python scripts.
 1. Created a DVC pipeline (`dvc.yaml`) to generate all of the artifacts.
    This pipeline is intended to automate all of the steps in `README.pdf`.
 
