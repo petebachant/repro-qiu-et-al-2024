@@ -12,6 +12,8 @@ project that reproduces the results of:
 >ISSN 2949-7906,
 >https://doi.org/10.1016/j.crsus.2024.100263.
 
+from the Zenodo archive: https://zenodo.org/records/11194453
+
 To reproduce, execute:
 
 ```sh
