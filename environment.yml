@@ -1,0 +1,7 @@
+name: qiu-2024-decarb
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - xarray

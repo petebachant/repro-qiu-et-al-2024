@@ -11,3 +11,7 @@ references:
   - path: references.bib
 showcase:
   - text: This is still a work-in-progress. Check back soon for updates!
+environments:
+  qiu-2024-decarb:
+    path: environment.yml
+    kind: conda
