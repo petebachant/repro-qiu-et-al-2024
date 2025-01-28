@@ -1,6 +1,12 @@
 owner: petebachant
 name: repro-qiu-et-al-2024
 git_repo_url: https://github.com/petebachant/repro-qiu-et-al-2024
+dependencies:
+  - WTK_API_KEY:
+      kind: env-var
+      description: >
+        API key for NREL's Wind Toolkit.
+        See https://developer.nrel.gov/docs/wind/wind-toolkit/wtk-download/.
 references:
   - path: references.bib
 showcase:
