@@ -19,7 +19,7 @@ from the Zenodo archive: https://zenodo.org/records/11194453.
 1. Unzipped the Zenodo deposit to a new folder `repro-qiu-et-al-2024`.
 1. Ran `calkit new project . --git-url`
    inside the unzipped directory.
-1. Added files to the repo with `calkit add {path}`.
+1. Added files to the repo with `calkit add {path} -M`.
    Git/GitHub was automatically selected for small/text files and
    DVC/calkit.io was selected for large/binary files.
 1. Created a Conda environment in which to run the Python scripts.
