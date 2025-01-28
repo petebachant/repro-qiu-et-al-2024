@@ -1,2 +1,6 @@
 [core]
     autostage = true
+    remote = calkit
+['remote "calkit"']
+    url = https://api.calkit.io/projects/petebachant/repro-qiu-et-al-2024/dvc
+    auth = custom
