@@ -41,7 +41,7 @@ and
 Next clone the repo:
 
 ```sh
-calkit clone https://github.com/petebachant/repro-qiu-et-al-2024
+calkit clone petebachant/repro-qiu-et-al-2024
 ```
 
 Then move into the repo and run the pipeline:
